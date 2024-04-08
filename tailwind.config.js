@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode:"class",
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
@@ -14,6 +15,12 @@ module.exports = {
       },
       colors: {
         blueDark: '#03045e', // Example hex color
+        blueMojito: '#103CE7',
+        azureMojito: '#64E9FF',
+        violetNeon: '#6157FF',
+        roseNeon: '#EE49FD',
+        violetPastel: '#A8A0FF',
+        rosePastel: '#F5C9F9',
       },
     },
   },
