@@ -14,13 +14,10 @@ module.exports = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       colors: {
-        blueDark: '#03045e', // Example hex color
-        blueMojito: '#103CE7',
-        azureMojito: '#64E9FF',
-        violetNeon: '#6157FF',
-        roseNeon: '#EE49FD',
-        violetPastel: '#A8A0FF',
-        rosePastel: '#F5C9F9',
+        whiteCream: '#f1efe3',
+        blackDark: '#191c24',
+        orangeEl: '#f05316',
+        purplegr: '#711DB0'
       },
     },
   },
